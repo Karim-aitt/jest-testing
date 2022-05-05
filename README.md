@@ -1,4 +1,4 @@
-# Unit testing with Jest
+# IMPORTANTE: HAY QUE INSTALAR LOS MODULOS DE NODE(NPM) PARA QUE FUNCIONE (SUPONGO) EN GITPOD
 
 ```
 Important: 💻  This exercise is interactive.
